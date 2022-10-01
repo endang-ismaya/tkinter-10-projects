@@ -1,6 +1,6 @@
 # Python Tkinter 10 Projects by BlueLimeSolutions
 
--   Height Converter
+-   Feet to Meter Converter
 -   Tip Calculator
 -   Image Slider
 -   Currency Converter
